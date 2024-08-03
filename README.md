@@ -2,7 +2,7 @@
 
 > Currently parked.
 
-Fork-but-not-a-fork of Dream, an amazing OCaml library. Fork-but-not-a-fork of Blink, also an amazing OCaml library.
+Fork-but-not-a-fork of Dream, an amazing OCaml library. Fork-but-not-a-fork of Trail, also an amazing OCaml library.
 
 Current plans:
 - Riot
