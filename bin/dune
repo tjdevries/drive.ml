@@ -1,0 +1,4 @@
+(executable
+ (public_name drive)
+ (name main)
+ (libraries drive))

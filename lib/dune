@@ -1,0 +1,10 @@
+(include_subdirs qualified)
+
+(library
+ (name drive)
+ (libraries
+   bigstringaf
+   hmap
+   http
+   riot)
+ (preprocess (pps ppx_deriving.std)))

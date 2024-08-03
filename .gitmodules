@@ -1,0 +1,3 @@
+[submodule "vendor/riot"]
+	path = vendor/riot
+	url = https://github.com/riot-ml/riot
